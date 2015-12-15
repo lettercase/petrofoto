@@ -1,2 +1,2 @@
 # petrofoto
-Another one Yii2-Site
+Another one Yii2 site
